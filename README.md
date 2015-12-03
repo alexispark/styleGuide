@@ -5,6 +5,17 @@ Use this as the basis and we'll build upon it. Feel free to contribute.
 
 # Table of contents
 1. [Colors](#colors)
+2. [Fonts](#fonts)
+3. [Buttons](#buttons)
+4. [Forms](#forms)
+5. [Patterns](#patterns)
+6. [Composition](#composition)
+7. [Texture](#texture)
+8. [Modals](#modals)
+9. [Transitions](#transitions)
+10. [Animations](#animations)
+11. [Illustrations](#illustrations)
+12. [Photography](#photography)
 
 ## Colors
 • Description
