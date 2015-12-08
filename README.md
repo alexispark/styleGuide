@@ -24,7 +24,8 @@ Use this as the basis and we'll build upon it. Feel free to contribute.
 18. Tabs
 19. Accordions
 20. Carousels
-21. Maintenance and best practices
+21. Errors
+22. Maintenance and best practices
 
 ## Colors
 • Description
