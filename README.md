@@ -5,7 +5,7 @@ Use this as the basis and we'll build upon it. Feel free to contribute.
 
 # Table of contents
 1. [Colors](#colors)
-2. [Fonts](#fonts)
+2. [Typography](#typography)
 3. [Buttons](#buttons)
 4. [Forms](#forms)
 5. [Patterns](#patterns)
@@ -16,6 +16,15 @@ Use this as the basis and we'll build upon it. Feel free to contribute.
 10. [Animations](#animations)
 11. [Illustrations](#illustrations)
 12. [Photography](#photography)
+13. Grids
+14. Icons
+15. Feedback
+16. Navigation
+17. Styling Navigation
+18. Tabs
+19. Accordions
+20. Carousels
+21. Maintenance and best practices
 
 ## Colors
 • Description
